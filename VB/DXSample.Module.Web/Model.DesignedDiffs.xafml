@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<BOModel>
+		<Class Name="DXSample.Module.CriteriaReportParametersObject">
+			<Member Name="Criteria" PropertyEditorType="DevExpress.ExpressApp.Web.Editors.ASPx.ASPxCriteriaPropertyEditor" />
+		</Class>
+	</BOModel>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="9.1.5.0" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="9.1.5.0" />
+		<SchemaModule Name="SystemAspNetModule" Version="9.1.5.0" IsNewNode="True" />
+		<SchemaModule Name="SystemModule" Version="9.1.5.0" IsNewNode="True" />
+	</SchemaModules>
+</Application>
