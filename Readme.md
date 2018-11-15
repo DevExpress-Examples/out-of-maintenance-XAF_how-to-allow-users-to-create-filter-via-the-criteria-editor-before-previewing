@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CriteriaReportParametersObject.cs](./CS/DXSample.Module/CriteriaReportParametersObject.cs) (VB: [CriteriaReportParametersObject.vb](./VB/DXSample.Module/CriteriaReportParametersObject.vb))**
+<!-- default file list end -->
 # How to allow users to create filter via the criteria editor before previewing a report
 
 
